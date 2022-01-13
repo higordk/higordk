@@ -17,6 +17,16 @@
 
 Desenvolvedor de Software e Profissional em Segurança da Informação
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   13 hrs 53 mins  █████████████████████▒░░░   85.82 % 
+TypeScript   1 hr 56 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+CSS          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+```
+<!--END_SECTION:waka-->
+
 ##
 <div> 
   <a href="https://instagram.com/higorrocha16" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

@@ -16,7 +16,7 @@
 ##
 
 
-📊 **this week i spent my time on:**
+📊 **Esta semana eu gastei meu tempo em:**
 <!--START_SECTION:waka-->
 ```text
 JavaScript   13 hrs 53 mins  █████████████████████▒░░░   85.82 % 

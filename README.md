@@ -1,5 +1,5 @@
 ## Olá! Eu sou Higor Rocha
-Desenvolvedor de Software e Profissional em Segurança da Informação
+##Desenvolvedor de Software e Profissional em Segurança da Informação!
 <div style="display: inline_block"><br>
   <img align="center" alt="Higor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Higor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
